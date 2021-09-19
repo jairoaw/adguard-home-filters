@@ -219,3 +219,5 @@
 @@||ow.ly^
 @@||tinyurl.com^
 @@||meliuz.onelink.me^
+@@||activity.windows.com^$important
+@@||silver.xboxservices.com^$important

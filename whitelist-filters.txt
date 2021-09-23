@@ -225,3 +225,5 @@
 @@||silver.xboxservices.com^$important
 @@||stats.labs.apnic.net^$important
 @@||hbomax.onelink.me^$important
+@@||more.suse.com^$important
+@@||conteudo.rnp.br^$important

@@ -221,14 +221,10 @@
 @@||meliuz.onelink.me^
 @@||activity.windows.com^$important
 @@||silver.xboxservices.com^$important
-@@||activity.windows.com^$important
-@@||silver.xboxservices.com^$important
 @@||stats.labs.apnic.net^$important
 @@||hbomax.onelink.me^$important
 @@||more.suse.com^$important
-@@||conteudo.rnp.br^$important
-@@||more.suse.com^$important
-@@||more.suse.com^$important
+@@||rnp.br^$important
 @@||db-ip.com^$important
 @@||feitopara.vc^$important
 @@||sentry.justwatch.com^$important

@@ -231,3 +231,6 @@
 @@||more.suse.com^$important
 @@||db-ip.com^$important
 @@||feitopara.vc^$important
+@@||sentry.justwatch.com^$important
+@@||starplus.sjv.io^$important
+@@||guiabolso.onelink.me^$important

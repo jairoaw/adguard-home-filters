@@ -230,3 +230,4 @@
 @@||sentry.justwatch.com^$important
 @@||starplus.sjv.io^$important
 @@||guiabolso.onelink.me^$important
+@@||oss.oetiker.ch^$important

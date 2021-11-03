@@ -231,3 +231,4 @@
 @@||starplus.sjv.io^$important
 @@||guiabolso.onelink.me^$important
 @@||oss.oetiker.ch^$important
+@@||banner.online.go.oi.com.br^#necessário para o Oi play

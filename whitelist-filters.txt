@@ -232,3 +232,8 @@
 @@||guiabolso.onelink.me^$important
 @@||oss.oetiker.ch^$important
 @@||banner.online.go.oi.com.br^#necessário para o Oi play
+@@||amedigital.onelink.me^$important#amedigital
+@@||banner1.itau.com.br^$important
+@@||lcprd1.samsungcloudsolution.net^$important#app samsung smartv
+@@||gpm.samsungqbe.com^$client='192.168.1.81'#app samsung smartv
+

@@ -236,4 +236,9 @@
 @@||banner1.itau.com.br^$important
 @@||lcprd1.samsungcloudsolution.net^$important#app samsung smartv
 @@||gpm.samsungqbe.com^$client='192.168.1.81'#app samsung smartv
-
+@@||casasbahia.onelink.me^$important
+@@||b2wsubmarino.onelink.me^$important
+@@||www.delltechnologies.com^$important
+@@||banner.online.go.oi.com.br^$important
+@@||zoom.com.br^$important
+@@||meliuz.com.br^$important

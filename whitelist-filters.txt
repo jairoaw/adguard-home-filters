@@ -242,3 +242,12 @@
 @@||banner.online.go.oi.com.br^$important
 @@||zoom.com.br^$important
 @@||meliuz.com.br^$important
+@@||casasbahia.onelink.me^$important
+@@||b2wsubmarino.onelink.me^$important
+@@||www.delltechnologies.com^$important
+@@||banner.online.go.oi.com.br^$important
+@@||zoom.com.br^$important
+@@||meliuz.com.br^$important
+@@||pmecountdown.000webhostapp.com^$important
+@@||justwatch.com
+

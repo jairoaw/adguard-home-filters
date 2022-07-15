@@ -257,4 +257,13 @@
 @@||alitems.site^$important
 @@||target.aws.amazon.com^$important
 @@||conteudo.unimednordesters.com.br^$important
+@@||cloudharmony.net^$important
+@@||cdn.mxpnl.com^$client='192.168.1.69'
+@@||disneyplus.bn5x.net^$important
+@@||trk.hbomax.com^$important
+@@||pages.awscloud.com^$important
+@@||alitems.site^$important
+@@||target.aws.amazon.com^$important
+@@||u.cubeupload.com^$important
+@@||adv.br^$important
 

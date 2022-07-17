@@ -33,6 +33,7 @@
 @@||docs.google.com^$important
 @@||docs.zoho.com^$important
 @@||downloads.intercomcdn.com^$important
+@@||ali.ski^$important
 @@||drive.google.com^$important
 @@||dropbox.com^$important
 @@||dropboxusercontent.com^$important

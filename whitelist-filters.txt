@@ -249,7 +249,7 @@
 @@||zoom.com.br^$important
 @@||meliuz.com.br^$important
 @@||pmecountdown.000webhostapp.com^$important
-@@||justwatch.com
+@@||justwatch.com^$important
 @@||cloudharmony.net^$important
 @@||cdn.mxpnl.com^$client='192.168.1.69'
 @@||disneyplus.bn5x.net^$important

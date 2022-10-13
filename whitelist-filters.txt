@@ -271,3 +271,5 @@
 @@||ali.ski^$important
 @@||pontofrio.onelink.me^$important
 @@||click.news.pelando.com.br^$important
+@@||centauro.onelink.me^$important
+

@@ -272,4 +272,5 @@
 @@||pontofrio.onelink.me^$important
 @@||click.news.pelando.com.br^$important
 @@||centauro.onelink.me^$important
+@@||conteudo.skeelo.app^$important
 

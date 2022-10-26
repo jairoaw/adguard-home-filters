@@ -273,4 +273,4 @@
 @@||click.news.pelando.com.br^$important
 @@||centauro.onelink.me^$important
 @@||conteudo.skeelo.app^$important
-
+@@||us-pub.dengage.com^$important

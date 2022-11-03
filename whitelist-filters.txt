@@ -276,3 +276,4 @@
 @@||us-pub.dengage.com^$important
 @@||camerite.com^$important
 @@||click.e.change.org^$important
+@@||discordapp.page.link^$important

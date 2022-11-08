@@ -277,3 +277,4 @@
 @@||camerite.com^$important
 @@||click.e.change.org^$important
 @@||discordapp.page.link^$important
+@@||picpay.onelink.me^$important

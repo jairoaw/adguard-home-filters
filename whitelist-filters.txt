@@ -278,3 +278,4 @@
 @@||click.e.change.org^$important
 @@||discordapp.page.link^$important
 @@||picpay.onelink.me^$important
+@@||extra.onelink.me^$important

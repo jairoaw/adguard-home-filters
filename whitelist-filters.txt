@@ -281,4 +281,3 @@
 @@||extra.onelink.me^$important
 @@||amedigital.onelink.me^$important
 @@||adtracker.pensebig.com.br^$important
-@@||us-pub.dengage.com^$important

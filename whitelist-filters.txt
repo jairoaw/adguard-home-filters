@@ -281,11 +281,11 @@
 @@||extra.onelink.me^$important
 @@||amedigital.onelink.me^$important
 @@||adtracker.pensebig.com.br^$important
-@@||onclkds.com^$client='192.168.1.76'
 @@||us-pub.dengage.com^$important
-@@||sessions.bugsnag.com^$client='192.168.1.67'
 @@||sessions.bugsnag.com^$important
 @@||app-measurement.com^$client='192.168.1.67'
 @@||tpc.googlesyndication.com^$client='192.168.1.67'
 @@||onclkds.com^$client='192.168.1.76'
 @@||s.click.aliexpress.com^$important
+@@||goodcloud.xyz^$important
+@@||gl-inet.com^$important

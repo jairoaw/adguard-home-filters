@@ -289,3 +289,4 @@
 @@||s.click.aliexpress.com^$important
 @@||goodcloud.xyz^$important
 @@||gl-inet.com^$important
+@@||objectstorage.sa-saopaulo-1.oraclecloud.com^$important
